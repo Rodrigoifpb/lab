@@ -1,2 +1,18 @@
 ---
 # vars file for create_vm
+ip_server=""
+vcenter_server=""
+vcenter_user=""
+vcenter_pass=""
+datacenter_name=""
+datacenter_name=""
+cluster_name=""
+mem_mb=""
+number_cpus=""
+ip_host=""
+mask_host=""
+gw_host=""
+dns_host=""
+host_name=""
+dns_1=""
+dns_2=""

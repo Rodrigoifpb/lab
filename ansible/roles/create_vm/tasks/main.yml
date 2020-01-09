@@ -15,7 +15,7 @@
       username: "{{ vcenter_user }}"
       password: "{{ vcenter_pass }}"
       validate_certs: False
-      name: web02
+      name: lab
       template: template-ubuntu-18.04
       datacenter: "{{ datacenter_name }}"
       folder: /{{ datacenter_name }}/vm
